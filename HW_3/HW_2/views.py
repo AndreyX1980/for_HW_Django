@@ -4,7 +4,7 @@ from django.db import models
 
 from django.shortcuts import render
 
-from hw_2.models import Order
+from HW_2.models import Order
 
 
 def get_orders (request, client_id):
